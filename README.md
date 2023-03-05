@@ -9,7 +9,7 @@
   <br/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarzai&theme=algolia" alt="abrarzai" /></p>
 
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
@@ -67,7 +67,7 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikeshops&show_icons=true&&theme=radical" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarzai&show_icons=true&&theme=radical" alt="abrarzai" /></p>
 
 </details>
 

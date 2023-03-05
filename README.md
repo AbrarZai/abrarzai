@@ -62,17 +62,6 @@
   </a>
 </p>
   
-  ## Hashnode Blogs (Expand to View)
-
-<details>
-  <summary><b>Tap Me</b></summary>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
-</p>
-  </details>
-  
   ## 📊 Github Stats (Expand to View) 
   
  <details>
@@ -85,7 +74,7 @@
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshops&show_icons=true&&theme=radical&line_height=27&v=5" alt="rishikeshops" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarzai&show_icons=true&&theme=radical&line_height=27&v=5" alt="abrarzai" /></p>
   
 </details> 
    </details>

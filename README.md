@@ -63,10 +63,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarzai&show_icons=true&&theme=radical" alt="abrarzai" /></p>
 
 </details>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarzai&show_icons=true&&theme=radical&line_height=27&v=5" alt="abrarzai" /></p>
-   
-  
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect! Say hi and let's meet!!</b> 😊</em>
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 

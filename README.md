@@ -85,7 +85,7 @@
  -->
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by showing some  repositories!
 
    <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>

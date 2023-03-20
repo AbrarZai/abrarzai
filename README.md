@@ -64,9 +64,6 @@
 
 </details>
 
-  <details>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarzai&show_icons=true&&theme=radical&line_height=27&v=5" alt="abrarzai" /></p>
   
 </details> 

@@ -2,15 +2,13 @@
  -->
 <h1 align="center">Hi , I'm ABRAR AHMED ZAI<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarzai&theme=algolia" alt="abrarzai" /></p>
 <p align="center" >
   <samp>
     Hello! My name is <em>ABRAR AHMED ZAI</em> and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
   </samp>
   <br/>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarzai&theme=algolia" alt="abrarzai" /></p>
-
 
 ## :zap: Skills
 

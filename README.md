@@ -5,7 +5,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarzai&theme=algolia" alt="abrarzai" /></p>
 <p align="center" >
   <samp>
-    Hello! My name is <em>ABRAR AHMED ZAI</em> andI'm a DevOps fan who's interested in cloud computing, containerization, and automation. I'm exploring different DevOps methodologies and tools to enhance the software development and deployment process.
+    Hello! My name is <em>ABRAR AHMED ZAI</em> and I'm a DevOps fan who's interested in cloud computing, containerization, and automation. I'm exploring different DevOps methodologies and tools to enhance the software development and deployment process.
   </samp>
   <br/>
 </p>

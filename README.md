@@ -4,15 +4,13 @@
 
 <p align="center" >
   <samp>
-    Hello!.
+    Hello! My name is <em>ABRAR AHMED ZAI</em> and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
   </samp>
   <br/>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarzai&theme=algolia" alt="abrarzai" /></p>
 
-
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ## :zap: Skills
 
@@ -46,6 +44,7 @@
     <a href="https://pages.github.com/?(null)" target="_blank" >
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
   </a>
+
   
   ### Monitoring
   
@@ -67,10 +66,19 @@
 
 </details>
 
-    
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>connecting with different people</b> so, <b>I'll be happy to meet you more!</b> 😊</em>
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarzai&show_icons=true&&theme=radical&line_height=27&v=5" alt="abrarzai" /></p>
+  
+</details> 
+   </details>
    
-## 📫 How to reach me? <img align="center" src="https://github.com/abrarzai/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+   
+   
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+   
+## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/abrarzai-devops/) 👨🏻‍💻 <br>
     ⦿ Shoot Me an [Email](mailto:engrzai@gmail.com) 💌 <br>
@@ -81,10 +89,10 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
-   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
 
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/abrarzai/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
